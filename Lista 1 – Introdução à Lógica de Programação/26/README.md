@@ -1,0 +1,1 @@
+26. Fazer um fluxograma para um comprador de melancias, a cada melancia que entra é medido o seu peso. Inicialmente não se sabe a quantidade de melancias a serem pesadas, e ao final é fornecido um valor negativo para o peso. A final informar a quantidade de melancias, o peso total, a média, o maior e o menor peso lido.

@@ -1,0 +1,1 @@
+05. Fazer uma função para ler três números, estes números podem ser o comprimento dos lados de um triângulo. Dizer se estes números podem ser de um triângulo, caso positivo, classificar em eqüilátero, isóscele ou escaleno. Caso não seja triângulo a função deve retornar 0, se for isósceles deve retornar 1, se for escaleno deve retorna 2 e se for equilátero retornar 3.

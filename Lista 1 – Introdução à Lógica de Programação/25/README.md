@@ -1,0 +1,1 @@
+25. Fazer um fluxograma para ler as notas de um concurso, inicialmente não se sabe o número de candidatos. Ler as notas até encontrar um valor negativo, o “flag”. Ao final, informar o número de candidatos, a média aritmética, a maior nota lida e a menor nota lida. Tratar adequadamente quando for lista vazia, o primeiro valor for negativo.

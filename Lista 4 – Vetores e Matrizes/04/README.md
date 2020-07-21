@@ -1,0 +1,1 @@
+04. Preencher um vetor com 10 números. Retorne quais são os números primos deste vetor.

@@ -1,0 +1,1 @@
+05. Fazer um fluxograma para ler três notas (sistema do IFCE), Calcular a média (ponderada), dizer se foi aprovado por média (7,0), caso contrário, calcular qual a nota que o aluno precisa fazer na final para ser aprovado por média final (5,0).

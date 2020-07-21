@@ -1,0 +1,1 @@
+12. Fazer um fluxograma que calcule o valor de N! (Fatorial de N), sendo que o valor inteiro de N é solicitado. O fluxograma deverá emitir mensagem de erro quando for fornecidos um valor negativo e tratar adequadamente para 0! e 1!.

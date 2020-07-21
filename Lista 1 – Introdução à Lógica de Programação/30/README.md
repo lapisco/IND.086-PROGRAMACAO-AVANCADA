@@ -1,0 +1,1 @@
+30. Fazer um fluxograma estatístico para um clube. Os valores serão fornecidos na seguinte ordem para cada sócio, uma letra informativa do sexo (M ou F) e um número relativo à idade. O fim da lista será dado quando a letra do sexo não for um M ou F. Ao final, informar o total de sócios, o total de homens, o total de mulheres, e a média de idade para cada sexo.

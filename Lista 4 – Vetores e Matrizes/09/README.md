@@ -1,0 +1,1 @@
+09. Desenvolva um algoritmo que recebe 6 valores numéricos inteiros numa matriz 2x3 e mostre a soma destes 6 números.

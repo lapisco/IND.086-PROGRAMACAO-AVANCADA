@@ -1,0 +1,1 @@
+04. Dados três valores A, B e C de uma equação do segundo grau (Ax 2 +Bx+C=0), faça uma função para calcular o valor das raízes, se para os valores fornecidos for possível determinar raízes reais. O retorno da função deve ser a quantidade de raízes, e as possíveis raízes devem ser colocadas como variável de entrada da função.

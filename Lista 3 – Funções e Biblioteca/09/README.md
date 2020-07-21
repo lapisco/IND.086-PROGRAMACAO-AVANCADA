@@ -1,0 +1,1 @@
+09. Fazer uma função que calcule o valor de N! (Fatorial de N), sendo que o valor inteiro de N é passado como entrada da função. O programa deverá retornar um valor que identifique que aconteceu um erro quando entrar um valor negativo e tratar adequadamente para 0! e 1!.

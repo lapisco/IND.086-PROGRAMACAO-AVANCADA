@@ -1,0 +1,1 @@
+29. Fazer um fluxograma para ler a temperatura ambiente de uma cidade européia. As amostras serão lidas até ser digita do um valor 1000, e efetuar as seguintes estatísticas: A quantidade de amostras coletadas, a média das temperaturas, a maior e a menor temperatura lida.

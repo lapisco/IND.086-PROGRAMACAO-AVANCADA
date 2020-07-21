@@ -1,0 +1,1 @@
+08. Criar um algoritmo que leia os elementos de uma matriz inteira de 3x3 e imprimir outra matriz multiplicando cada elemento da primeira matriz por 2.

@@ -1,0 +1,1 @@
+28. As coordenadas de um ponto (X,Y) estão disponíveis em uma unidade de entrada. Ler estes valores (até quando um flag ocorrer) e escrever "INTERIOR" se o ponto estiver dentro da região hachurada mostrada abaixo (y 2 < |y| < y 1 ); caso contrário, escrever "EXTERIOR".

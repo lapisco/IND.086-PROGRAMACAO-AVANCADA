@@ -1,0 +1,1 @@
+04. Fazer um fluxograma para ler três números, estes números podem ser o comprimento dos lados de um triângulo. Dizer se estes números podem ser de um triângulo, caso positivo, classificar em eqüilátero, isóscele ou escaleno.

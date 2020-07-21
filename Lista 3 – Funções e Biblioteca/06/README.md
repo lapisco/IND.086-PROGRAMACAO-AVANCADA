@@ -1,0 +1,1 @@
+06. Fazer uma função para ler três notas (sistema do IFCE), Calcular a média (ponderada), dizer se foi aprovado por média (7,0). Deve-se retornar desta função valor 1 se for aprovado e 0 se for reprovado.

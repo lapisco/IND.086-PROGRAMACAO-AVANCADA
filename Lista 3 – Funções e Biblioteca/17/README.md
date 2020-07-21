@@ -1,0 +1,1 @@
+17. As coordenadas de um ponto (X,Y) deve ser a entrada de uma função. Deve-se retornar 1 quando este ponto estiver dentro das linhas abaixo, na região "INTERIOR" destas. Deve-se retorna 0 caso contrário, quando este ponto for exterior à estas linhas.

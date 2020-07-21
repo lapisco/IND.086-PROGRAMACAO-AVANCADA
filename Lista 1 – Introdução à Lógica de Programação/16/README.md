@@ -1,0 +1,1 @@
+16. Fazer um fluxograma que calcule e escreva o número de grãos de milho que se pode colocar num tabuleiro de xadrez, colocando 1 no primeiro quadro e nos quadros seguintes o dobro do quadro anterior.

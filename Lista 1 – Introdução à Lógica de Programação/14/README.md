@@ -1,0 +1,1 @@
+14. Supondo que a população da cidade A é de 50.000 habitantes com uma taxa anual de crescimento de 3% e que a população de uma cidade B é de 200.000 habitantes com uma taxa de crescimento de 1,5%. Fazer um fluxograma que calcule e escreva o número de anos necessários para que a população da cidade A ultrapasse a da cidade B, mantidas essas taxas de crescimento.

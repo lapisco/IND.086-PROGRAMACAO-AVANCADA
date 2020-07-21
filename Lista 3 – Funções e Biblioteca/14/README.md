@@ -1,0 +1,1 @@
+14. Para cada série abaixo, faça uma função para calcular o valor da série. Obs: Todas as questões que tiverem uma variável X ao longo do cálculo, esse valor X deve ser fornecido como entrada desta função.

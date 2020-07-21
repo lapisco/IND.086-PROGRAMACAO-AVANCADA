@@ -1,0 +1,1 @@
+02. Preencher um vetor com 10 números. Indique o maior e o menor número, e forneça a diferença entre eles.
