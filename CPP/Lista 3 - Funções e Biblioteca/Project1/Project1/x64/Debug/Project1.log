@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\iagso\downloads\programação avançada\project1\project1\main.cpp(24): error C2660: 'dobro': function does not take 1 arguments
+  c:\users\iagso\downloads\programação avançada\project1\project1\func.h(3): note: see declaration of 'dobro'
+c:\users\iagso\downloads\programação avançada\project1\project1\main.cpp(29): error C2361: initialization of 'aux' is skipped by 'default' label
+  c:\users\iagso\downloads\programação avançada\project1\project1\main.cpp(24): note: see declaration of 'aux'
